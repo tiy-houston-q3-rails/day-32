@@ -8,11 +8,11 @@ Assignment:
 3. Add a search bar, and search for the Quotes
 4. Display the results on the screen
 
-** search lower and upper case
-** search partial words
-** should tell me the resulting count
-** use base stuff OR pg_search
+* search lower and upper case  
+* search partial words  
+* should tell me the resulting count  
+* use base stuff OR `pg_search`
 
-Examples:
+Examples:  
 * Tweeter
 * simple-search (HA SIMPLE)
